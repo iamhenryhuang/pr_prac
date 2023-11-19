@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="searchbar.css"> 
+    </head>
+    <body>
+        <h1 style="color:blue;">神奇寶貝</h1>
+       
+        <style>
+            body {background-color: powderblue;}
+            h1   {color: rgb(128, 128, 27);}
+            </style>
+            <h1>我的名字是蘇奕勳<br>喜歡吃冰淇淋</h1>
+        <h3>這是我最喜歡歡的寶可夢網站</h3>
+        <h1>口呆花</h1>
+        <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/b19541cee78bc2a00eb3f59f7a2fcca67469eb78.png" height="500" width="700"/>
+        <h1>喇叭芽</h1>
+         <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/47ae88a63c66e32e957da303ad50b72268e097e4.png" height="400" width="600"/>
+         <h1>大食花</h1>
+         <img src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/f010b09344a212ecb98c6f209233c0661db0e7a8.png" height="400" width="600"/>
+        
+         <img src="abc.png" height="400" width="900" alt="alternative text!!!">
+            <h1><br></h1>
+        <a href="https://tw.portal-pokemon.com/play/pokedex/0070/"><font font size="5">最愛的口呆花</font></a>
+        
+        <table border="10" bgcolor="pink" width=1000 height=250 >
+            <caption> <font color="gray" font size="5" span style="font-family:DFKai-sb">寶可夢進化</font></caption>
+            <tr>
+              <td width=1200 height=50 bgcolor=white  align="center" ><font color="orange" span style="font-family:DFKai-sb"  font size="3" ><strong>名稱</strong></font></td>
+              <td width=1000 bgcolor=white  align="center"><font color="orange" span style="font-family:DFKai-sb"  font size="3" ><strong>屬性</strong></font></td>
+              <td width=100 bgcolor=white  align="center"><font color="orange" span style="font-family:DFKai-sb"  font size="3" ><strong>身高</strong></font></td>
+              <td width=100 bgcolor=white  align="center"><font color="orange" span style="font-family:DFKai-sb"  font size="3" ><strong>體重</strong></font></td>
+              <td width=2500 bgcolor=white  align="center"><font color="orange" span style="font-family:DFKai-sb"  font size="3" > <strong>分類</strong> </font> </td>
+                <td width=1200 bgcolor=white  align="center"> <font color="orange" span style="font-family:DFKai-sb"  font size="3" > <strong> 特性</strong></font>     </td>
+                        <td width=1000 bgcolor=white colspan="6"  align="center"><font color="orange" span style="font-family:DFKai-sb"  font size="3" ><strong>能力</strong></font></td>            
+            </tr>
+            <tr>
+                <td width=700   align="center">喇叭芽</td> <!--table data 的縮寫，用來表示一列中的一個 cell-->
+                <td  align="center">草&毒</td>
+                <td>0.7m</td>
+                <th>4.0kg</th>
+                <th>捕蠅寶可夢</th>
+                <th>葉綠素</th>
+                <th width=100>HP:2 </th>
+                <th width=1200>攻擊攻擊：4</th>
+                 <th width=100>防禦:2 </th>
+                 <th width=500>特工：3</th> 
+                 <th width=500>特防：1</th> 
+                 <th width=500>速度：2</th>
+
+
+            </tr>
+            <tr>
+                <td  align="center">口呆花</td>
+                <td  align="center">草&毒 </td>
+                <td>1.0m</td>
+                <th>6.4kg</th>
+                <th width=2000>捕蠅寶可夢</th>
+                <th width=500>葉綠素</th>
+                <th width=100>HP:3</th> 
+                    <th width=100>攻擊攻擊：5</th>
+                        <th width=100> 防禦:2</th> 
+                        <th width=100>特工：4</th>
+                        <th width=100> 特防：2</th>
+                        <th width=100> 速度：3</th>
+            </tr>
+            <tr>
+                <td  align="center">大食花</td>
+                <td  align="center">草&毒</td>
+                <td>1.7m</td>
+                <th>15.5kg</th>
+                <th>捕蠅寶可夢</th>
+                <th>葉綠素</th>
+                <th width=300>HP:3&nbsp;</th>
+                <th width=300> 攻擊攻擊：5 &nbsp;</th>
+                <th width=300>防禦:3&nbsp;</th>
+                <th width=300> 特工：5&nbsp;</th>
+                <th width=300> 特防：3 &nbsp;</th>
+                <th width=300>速度：4 &nbsp;</th>
+                </tr>
+             
+        </table>
+      <a href="file:///Users/jamessu/Desktop/computersciencehomework/selfintroduce.html"><font font size="4"><strong>我的自我介紹</strong></font></a>
+    </body>
+</html>happy
